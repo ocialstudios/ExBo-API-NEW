@@ -1,0 +1,37 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "ExBo API",
+    "description": "pack.description",
+    "min_engine_version": [1, 17, 0],
+    "uuid": "4fd6a003-748d-47fe-866a-f054a5d3a481",
+    "version": [2, 0, 0]
+  },
+  "modules": [
+    {
+      "description": "Data Module",
+      "type": "data",
+      "uuid": "554aa1f8-c3cf-4899-965e-146a1a5a4f89",
+	  
+      "version": [2, 0, 0]
+    },
+    {
+      "description": "Gametest Module",
+      "type": "javascript",
+      "uuid": "cde6447c-aa7b-446c-b707-acec9033360f",
+      "version": [0, 0, 1],
+      "entry": "scripts/index.js"
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "6f4b6893-1bb6-42fd-b458-7fa3d0c89616",
+      "version": [0, 1, 0]
+    }
+  ],
+  "metadata": {
+    "authors": ["ExBo Studios"],
+    "license": "MIT",
+    "url": "https://github.com/ExBoStudios/ExBo-API-NEW"
+  }
+}
