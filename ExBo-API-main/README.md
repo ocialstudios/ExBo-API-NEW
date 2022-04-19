@@ -5,6 +5,7 @@ This is a wrapper for the MCBE Gamtest Framework, which uses advanced ways to ma
 ## Authors
 
 - [@ExBoStudios](https://www.github.com/ExBoStudios)
+- [@smell of curry](https://www.github.com/smell-of-curry)
 
 
 ## Features
